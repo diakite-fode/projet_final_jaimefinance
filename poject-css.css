@@ -1,0 +1,35 @@
+.Logo {
+    width: 186px;
+    height: 24px;
+    margin: 0 393px 0 0;
+    object-fit: contain;
+  }
+
+  .concept {
+    display: inline;  
+    top:34px ;
+    left: 722;
+    width: 73px;
+    height: 20px;
+    margin: 1px 50px 3px 396px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.9px;
+    color: var(--dusk-two);
+  }
+
+  .marge-gauche{
+      display: inline-block;
+      position: relative;
+      top: 33px;
+      left: 140px;
+  }
+
+ /* .zone{
+      display: inline-block;
+      position: relative;
+  } */
