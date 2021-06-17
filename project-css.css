@@ -2,17 +2,96 @@
 .Logo {
     width: 186px;
     height: 24px;
-    margin: 0 393px 0 0;
     object-fit: contain;
+  
   }
 
+  #nav{
+    margin:0px;
+    padding: 33px 140px 58px 140px !important;
+  }
+#alogo{
+    margin:0px !important;
+    padding: 0px !important;
+}
+
+.Qui-sommes-nous {
+    padding: 0px 0px !important;
+    margin: 0px 0px !important;
+    width: 146px;
+    height: 23px;
+    margin: 1px 50px 0 40px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.9px;
+    color: var(--dusk-two);
+  }
+
+
   .concept {
+
     display: inline;  
     top:34px ;
     left: 722;
     width: 73px;
     height: 20px;
     margin: 1px 50px 3px 396px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.9px;
+    color: var(--dusk-two);
+  }
+
+  #apadding{
+      padding: 0px 0px;
+  }
+
+  
+  .aide {
+    padding: 0px 0px !important;
+    width: 34px;
+    height: 20px;
+    margin: 1px 50px 3px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.9px;
+    color: var(--dusk-two);
+  }
+
+  
+  .tarifs {
+    padding: 0px 0px !important; 
+    margin: 0px 0px !important;
+    width: 51px;
+    height: 20px;
+    margin: 1px 50px 3px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.9px;
+    color: var(--dusk-two);
+  }
+
+  .contact {
+    padding: 0px 0px !important; 
+    width: 74px;
+    height: 20px;
+    margin: 1px 0 3px 50px;
     font-family: Poppins;
     font-size: 14px;
     font-weight: 500;
