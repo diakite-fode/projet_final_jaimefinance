@@ -1,3 +1,4 @@
+/*header*/
 .Logo {
     width: 186px;
     height: 24px;
@@ -22,14 +23,7 @@
     color: var(--dusk-two);
   }
 
-  .marge-gauche{
-      display: inline-block;
-      position: relative;
-      top: 33px;
-      left: 140px;
+  /*liste a puce avec 4 avantages*/
+  li{
+    list-style-image: url(image/check.png);
   }
-
- /* .zone{
-      display: inline-block;
-      position: relative;
-  } */
