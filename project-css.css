@@ -23,6 +23,21 @@
     color: var(--dusk-two);
   }
 
+  /* 1er block image/text*/
+  .Trouvez-le-meilleur {
+    width: 484px;
+    height: 132px;
+    margin: 23px 176px 20px 0;
+    font-family: Poppins;
+    font-size: 42px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.05;
+    letter-spacing: normal;
+    color: var(--dark-slate-blue);
+  }
+
   /*liste a puce avec 4 avantages*/
 
   .check {
@@ -54,11 +69,19 @@
     background-color: var(--dark-slate-blue);
   }
 
-  li{
-    list-style-image: url(image/check.png);
+  .li{
+      list-style-type: none;
   }
 
   /* 4 avantages icones*/
+
+  .bg {
+    width: 1440px;
+    height: 600px;
+    margin: 554px 0 150px;
+    padding: 192px 140px 104px;
+    background-color: var(--dusk);
+  }
 
   .imgavantage_1 {
     width: 260px;
