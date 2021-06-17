@@ -24,6 +24,139 @@
   }
 
   /*liste a puce avec 4 avantages*/
+
+  .check {
+    width: 30px;
+    height: 30px;
+    margin: 0 17px 0 0;
+    object-fit: contain;
+  }
+
+  .Oval {
+    width: 30px;
+    height: 30px;
+    margin: 0 17px 0 0;
+    padding: 3px;
+    box-shadow: 0 9px 29px 0 rgba(37, 71, 99, 0.1);
+    background-color: var(--robin-s-egg-blue);
+  }
+
+  .icedit {
+    width: 24px;
+    height: 24px;
+    object-fit: contain;
+    background-color: var(--dark-slate-blue);
+  }
+
+  .Rectangle {
+    width: 2px;
+    height: 13px;
+    background-color: var(--dark-slate-blue);
+  }
+
   li{
     list-style-image: url(image/check.png);
   }
+
+  /* 4 avantages icones*/
+
+  .imgavantage_1 {
+    width: 260px;
+    height: 142px;
+    margin: 0 0 31px;
+    object-fit: contain;
+  }
+
+  .imgavantage_2 {
+    width: 260px;
+    height: 140px;
+    margin: 0 0 26px;
+    object-fit: contain;
+  }
+
+  .imgavantage_3 {
+    width: 260px;
+    height: 140px;
+    margin: 0 0 26px;
+    object-fit: contain;
+  }
+
+  .imgavantage_4 {
+    width: 260px;
+    height: 140px;
+    margin: 0 0 26px;
+    object-fit: contain;
+  }
+
+  /* étapes solutions de financements*/
+  .timeline {
+    width: 1081px;
+    height: 41px;
+    margin: 0 219px 180px 0;
+    object-fit: contain;
+  }
+
+  /* section après solution de financement*/
+  .imghelp {
+    width: 57px;
+    height: 57px;
+    margin: 0 15px 0 0;
+    object-fit: contain;
+  }
+
+  /* block text/image*/
+
+  .imgoutil {
+    width: 460px;
+    height: 350px;
+    margin: 0 40px 0 0;
+    object-fit: contain;
+    border-radius: 20px;
+  }
+
+  .imgcoach {
+    width: 460px;
+    height: 350px;
+    margin: 0 0 0 40px;
+    object-fit: contain;
+    border-radius: 20px;
+  }
+
+  .imgvaleurs {
+    width: 460px;
+    height: 350px;
+    margin: 0 40px 0 0;
+    object-fit: contain;
+    border-radius: 20px;
+  }
+
+  /* labels icones*/
+  .imglogo1 {
+    width: 260px;
+    height: 106px;
+    margin: 104px 40px 0 0;
+    object-fit: contain;
+  }
+
+  .imglogo2 {
+    width: 260px;
+    height: 106px;
+    margin: 104px 40px 0;
+    object-fit: contain;
+  }
+
+  .imglogo3 {
+    width: 260px;
+    height: 106px;
+    margin: 104px 40px 0;
+    object-fit: contain;
+  }
+
+  .imglogo4 {
+    width: 260px;
+    height: 106px;
+    margin: 104px 0 0 40px;
+    object-fit: contain;
+  }
+
+
