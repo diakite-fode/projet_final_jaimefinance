@@ -7,15 +7,42 @@
   }
 
   #nav{
-    margin:0px;
-    padding: 33px 140px 58px 140px !important;
+    margin:33px 140px 58px 140px;
+    padding: 0px !important;
   }
 #alogo{
     margin:0px !important;
     padding: 0px !important;
 }
 
-.Qui-sommes-nous {
+  .largeur
+  {
+   margin: 1px 50px 0px 396px !important;
+  }
+
+  .concept {
+
+    display: inline;  
+    top:34px ;
+    left: 722;
+    width: 73px;
+    height: 20px;
+    margin: 1px 50px 0px 396px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.9px;
+    color: var(--dusk-two);
+  }
+
+  #apadding{
+      padding: 0px 0px;
+  }
+
+  .Qui-sommes-nous {
     padding: 0px 0px !important;
     margin: 0px 0px !important;
     width: 146px;
@@ -31,35 +58,12 @@
     color: var(--dusk-two);
   }
 
-
-  .concept {
-
-    display: inline;  
-    top:34px ;
-    left: 722;
-    width: 73px;
-    height: 20px;
-    margin: 1px 50px 3px 396px;
-    font-family: Poppins;
-    font-size: 14px;
-    font-weight: 500;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: normal;
-    letter-spacing: 0.9px;
-    color: var(--dusk-two);
-  }
-
-  #apadding{
-      padding: 0px 0px;
-  }
-
   
   .aide {
     padding: 0px 0px !important;
     width: 34px;
     height: 20px;
-    margin: 1px 50px 3px;
+    margin: 1px 50px 0px;
     font-family: Poppins;
     font-size: 14px;
     font-weight: 500;
@@ -91,7 +95,7 @@
     padding: 0px 0px !important; 
     width: 74px;
     height: 20px;
-    margin: 1px 0 3px 50px;
+    margin: 1px 140px 0px 50px;
     font-family: Poppins;
     font-size: 14px;
     font-weight: 500;
@@ -103,10 +107,27 @@
   }
 
   /* 1er block image/text*/
+  .Trouvez-votre-prt-i {
+    width: 484px;
+    height: 23px;
+    margin: 33px 0px 23px 0;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: var(--greyblue);
+  }
+  .trouver{
+    margin: 0px 100px 0px 176px !important;
+  }
+  
   .Trouvez-le-meilleur {
     width: 484px;
     height: 132px;
-    margin: 23px 176px 20px 0;
+    margin: 0px 0px 20px 0px;
     font-family: Poppins;
     font-size: 42px;
     font-weight: 600;
@@ -115,6 +136,39 @@
     line-height: 1.05;
     letter-spacing: normal;
     color: var(--dark-slate-blue);
+  }
+
+  .Notre-outil-performa {
+    width: 492px;
+    height: 84px;
+    margin: 0px 0px 2px 0;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.4;
+    letter-spacing: normal;
+    color: var(--dark-slate-blue);
+  }
+
+  .Rectangle {
+    width: 273px;
+    height: 40px;
+    margin: 2px 387px 50px 0;
+    padding: 7px 16px;
+    border-radius: 2px;
+    background-color: var(--dusty-orange);
+
+  }
+
+  .Top_image {
+    width: 540px;
+    height: 440px;
+    margin: 0 100px 131px 168px;
+    object-fit: contain;
+    top: -21px ;
+    position: relative;
   }
 
   /*liste a puce avec 4 avantages*/
