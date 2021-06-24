@@ -5,17 +5,20 @@ body {
 /*header*/
 .Logo {
     width: 186px;
-    height: 24px;
+    height: 24px ;
+    margin: 0 393px 0 0;
     object-fit: contain;
+  }
   
+
+#nav{
+    padding: 33px 140px 0px 140px!important; 
   }
 
-  #nav{
-    padding: 33px 140px!important;
-  }
 #alogo{
     margin:0px !important;
     padding: 0px !important;
+
 }
 
   .largeur
@@ -23,14 +26,15 @@ body {
    margin: 1px 50px 0px 396px !important;
   }
 
-  .concept {
 
-    display: inline;  
-    top:34px ;
+  .concept {
+/* 
+    display: inline;   */
+    /* top:34px ;
     left: 722;
     width: 73px;
     height: 20px;
-    margin: 1px 50px 0px 396px;
+    margin: 1px 50px 0px 396px; */
     font-family: Poppins;
     font-size: 14px;
     font-weight: 500;
@@ -41,16 +45,16 @@ body {
     color: var(--dusk-two);
   }
 
-  #apadding{
+  /* #apadding{
       padding: 0px 0px;
-  }
+  } */
 
   .Qui-sommes-nous {
-    padding: 0px 0px !important;
+    /* padding: 0px 0px !important;
     margin: 0px 0px !important;
     width: 146px;
     height: 23px;
-    margin: 1px 50px 0 40px;
+    margin: 1px 50px 0 40px; */
     font-family: Poppins;
     font-size: 14px;
     font-weight: 500;
@@ -63,10 +67,10 @@ body {
 
   
   .aide {
-    padding: 0px 0px !important;
+    /* padding: 0px 0px !important;
     width: 34px;
     height: 20px;
-    margin: 1px 50px 0px;
+    margin: 1px 50px 0px; */
     font-family: Poppins;
     font-size: 14px;
     font-weight: 500;
@@ -79,11 +83,11 @@ body {
 
   
   .tarifs {
-    padding: 0px 0px !important; 
+    /* padding: 0px 0px !important; 
     margin: 0px 0px !important;
     width: 51px;
     height: 20px;
-    margin: 1px 50px 3px;
+    margin: 1px 50px 3px; */
     font-family: Poppins;
     font-size: 14px;
     font-weight: 500;
@@ -95,10 +99,10 @@ body {
   }
 
   .contact {
-    padding: 0px 0px !important; 
+    /* padding: 0px 0px !important; 
     width: 74px;
     height: 20px;
-    margin: 1px 140px 0px 50px;
+    margin: 1px 140px 0px 50px; */
     font-family: Poppins;
     font-size: 14px;
     font-weight: 500;
@@ -110,10 +114,19 @@ body {
   }
 
   /* 1er block image/text*/
+
+  .block1{
+    margin: 58px 100px 0px 140px !important;
+    padding: 0px !important;
+  }
+
+  #pad{
+    padding: 0px;
+  }
   .Trouvez-votre-prt-i {
     width: 484px;
     height: 23px;
-    margin: 33px 0px 23px 0;
+    margin: 32px 0px 11.50px 0;
     font-family: Poppins;
     font-size: 16px;
     font-weight: 600;
@@ -130,7 +143,7 @@ body {
   .Trouvez-le-meilleur {
     width: 484px;
     height: 132px;
-    margin: 0px 0px 20px 0px;
+    margin: 11.5px 0px 10px 0px;
     font-family: Poppins;
     font-size: 42px;
     font-weight: 600;
@@ -144,7 +157,7 @@ body {
   .Notre-outil-performa {
     width: 492px;
     height: 84px;
-    margin: 0px 0px 2px 0;
+    margin: 10px 0px 2px 0;
     font-family: Poppins;
     font-size: 20px;
     font-weight: normal;
