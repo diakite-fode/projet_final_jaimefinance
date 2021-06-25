@@ -123,6 +123,12 @@ body {
   #pad{
     padding: 0px;
   }
+
+  #margimg{
+    margin: 0px 39px !important;
+  }
+
+  
   .Trouvez-votre-prt-i {
     width: 484px;
     height: 23px;
@@ -137,7 +143,7 @@ body {
     color: var(--greyblue);
   }
   .trouver{
-    margin: 0px 100px 0px 176px !important;
+    /* margin: 0px 100px 0px 176px !important; */
   }
   
   .Trouvez-le-meilleur {
@@ -181,7 +187,7 @@ body {
   .Top_image {
     width: 540px;
     height: 440px;
-    margin: 0 100px 131px 168px;
+    /* margin: 0 100px 131px 168px; */
     object-fit: contain;
     top: -21px ;
     position: relative;
@@ -189,10 +195,30 @@ body {
 
   /*liste a puce avec 4 avantages*/
 
+  #margul{
+    padding: 0px !important;
+    margin: 0px 0px 0px 100px !important;
+    display: inline-block;
+  }
+
+  .La-proposition-et-le {
+    /* width: 565px;
+    height: 28px; */
+    margin: 2px 0 0 17px;
+    font-family: Poppins;
+    font-size: 17px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.65;
+    letter-spacing: normal;
+    color: var(--dark-slate-blue);
+  }
+
   .check {
     width: 30px;
     height: 30px;
-    margin: 0 17px 0 0;
+    /* margin: 0 17px 0 0; */
     object-fit: contain;
   }
 
