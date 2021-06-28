@@ -625,10 +625,10 @@ body {
     float: right;
   }
 
-  /* .marg{
-    margin-right: 0px !important;
-    margin-left: 0px !important;
-  } */
+  .marg{
+    margin-bottom: 0px !important;
+    
+  }
 
 
   .imgvaleurs {
@@ -682,7 +682,7 @@ body {
   .Labels {
     width: 53px;
     height: 23px;
-    margin: 0 293px 13px 294px;
+    margin: 150px 693px 13px 694px;
     font-family: Poppins;
     font-size: 16px;
     font-weight: 600;
@@ -695,7 +695,7 @@ body {
   .Nos-accrditations {
     width: 660px;
     height: 44px;
-    margin: 13px 250px 104px;
+    margin: 0px 0px 104px 390px !important;
     font-family: Poppins;
     font-size: 30px;
     font-weight: 600;
@@ -710,29 +710,36 @@ body {
   .imglogo1 {
     width: 260px;
     height: 106px;
-    margin: 104px 40px 0 0;
+    margin: 0px ;
     object-fit: contain;
+    
   }
 
   .imglogo2 {
     width: 260px;
     height: 106px;
-    margin: 104px 40px 0;
+    margin: 0px ;
     object-fit: contain;
   }
 
   .imglogo3 {
     width: 260px;
     height: 106px;
-    margin: 104px 40px 0;
+    margin: 0px ;
     object-fit: contain;
   }
 
   .imglogo4 {
     width: 260px;
     height: 106px;
-    margin: 104px 0 0 40px;
+    margin: 0px ;
     object-fit: contain;
+  }
+
+  #margg{
+    margin-left: 140px !important;
+    margin-right: 140px !important;
+    padding: 0px !important;
   }
 
 
