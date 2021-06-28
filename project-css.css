@@ -312,7 +312,7 @@ body {
   .Une-rponse-instanta {
     width: 484px;
     height: 26px;
-    margin: 0 676px 16px 140px;
+    margin: 0 816px 16px 140px;
     font-family: Poppins;
     font-size: 16px;
     font-weight: 600;
@@ -326,7 +326,7 @@ body {
     .Votre-solution-de-fi {
       width: 840px;
       height: 44px;
-      margin: 16px 320px 75px 140px;
+      margin: 0px 460px 75px 140px;
       font-family: Poppins;
       font-size: 30px;
       font-weight: 600;
@@ -458,10 +458,20 @@ body {
     color: var(--dusk-two);
   }
 
+  .Rectangle2 {
+    width: 126px;
+    height: 40px;
+    margin: 16px 40px 0 0;
+    padding: 7px 16px;
+    border-radius: 2px;
+    background-color: var(--dusty-orange);
+  }
+
   /* section après solution de financement*/
   #block{
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 140px;
+    margin-right: 140px;
+    margin-bottom: 150px !important;
   }
   .imghelp {
     display: block;
@@ -470,13 +480,19 @@ body {
     margin-left: auto !important;
     margin-right: auto !important;
     object-fit: contain;
-    margin-top: 20px;
+    margin: 28px 15px 29px 28px !important;
+  }
+
+  #padp{
+    padding:30px 0px 31px 0px !important;
+    
+    
   }
 
   .Loutil-na-pas-pu-v {
     width: 589px;
     height: 22px;
-    margin: 2px 138px 9px 15px;
+    margin: 0px 0px 9px 0px !important;
     font-family: Poppins;
     font-size: 18px;
     font-weight: 600;
@@ -488,11 +504,10 @@ body {
   }
 
   .Un-de-nos-coachs-fin {
-    /* width: 727px; */
     height: 22px;
-    margin: 9px 0 2px 15px;
+    margin: 0px !important;
     font-family: Poppins;
-    font-size: 16px;
+    font-size: 16px; 
     font-weight: 300;
     font-stretch: normal;
     font-style: normal;
@@ -502,6 +517,15 @@ body {
   }
 
   /* block text/image*/
+
+  #padblock{
+    padding: 150px 140px !important;
+  }
+
+  #bblock{
+    border: 224px 140px 174px 40px !important;
+    padding: 0px;
+  }
 
   .imgoutil {
     width: 460px;
@@ -514,7 +538,7 @@ body {
   .Notre-outil {
     width: 87px;
     height: 26px;
-    margin: 0 573px 10px 0;
+    margin:74px 573px 0px 0px !important;
     font-family: Poppins;
     font-size: 16px;
     font-weight: 600;
@@ -524,6 +548,7 @@ body {
     letter-spacing: normal;
     color: var(--greyblue);
   }
+
   .Une-recherche-adapt {
     width: 660px;
     height: 44px;
@@ -540,7 +565,7 @@ body {
   .Nous-matchons-votre {
     width: 660px;
     height: 112px;
-    margin: 10px 0 0;
+    margin: 0px;
     font-family: Poppins;
     font-size: 20px;
     font-weight: normal;
@@ -555,7 +580,7 @@ body {
   .Nos-coachs-financier {
     width: 183px;
     height: 26px;
-    margin: 0 477px 10px 0;
+    margin: 166px 517px 0px 0px;
     font-family: Poppins;
     font-size: 16px;
     font-weight: 600;
@@ -568,7 +593,7 @@ body {
   .Une-relle-expertise {
     width: 660px;
     height: 44px;
-    margin: 10px 0;
+    margin: 10px 0px ;
     font-family: Poppins;
     font-size: 30px;
     font-weight: 600;
@@ -581,7 +606,7 @@ body {
   .Notre-quipe-est-com {
     width: 660px;
     height: 84px;
-    margin: 10px 0 0;
+    margin: 0px;
     font-family: Poppins;
     font-size: 20px;
     font-weight: normal;
@@ -594,22 +619,29 @@ body {
   .imgcoach {
     width: 460px;
     height: 350px;
-    margin: 0 0 0 40px;
+    margin: 100px 0 0 40px;
     object-fit: contain;
     border-radius: 20px;
+    float: right;
   }
+
+  /* .marg{
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+  } */
+
 
   .imgvaleurs {
     width: 460px;
     height: 350px;
-    margin: 0 40px 0 0;
+    margin: 100px 40px 0 0;
     object-fit: contain;
     border-radius: 20px;
   }
   .Nos-valeurs {
     width: 97px;
     height: 26px;
-    margin: 0 563px 10px 0;
+    margin: 174px 563px 0px 0;
     font-family: Poppins;
     font-size: 16px;
     font-weight: 600;
@@ -635,7 +667,7 @@ body {
   .Nous-souhaitons-rvo {
     width: 660px;
     height: 112px;
-    margin: 10px 0 0;
+    margin: 0px 0 0;
     font-family: Poppins;
     font-size: 20px;
     font-weight: normal;
