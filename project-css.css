@@ -3,17 +3,27 @@ body {
 }
 
 /*header*/
-.Logo {
+li.nav-item{
+  margin-left: 50px;
+}
+/* .Logo {
     width: 186px;
     height: 24px ;
     margin: 0 393px 0 0;
     object-fit: contain;
-  }
+  } */
   
+ .marg{
+   margin: 0px !important;
+ } 
 
-#nav{
-    padding: 33px 140px 0px 140px!important; 
+#navpad{
+    padding-top: 33px !important; 
   }
+
+  .container{
+    max-width: 1200px;
+  } 
 
 #alogo{
     margin:0px !important;
@@ -21,10 +31,10 @@ body {
 
 }
 
-  .largeur
+  /* .largeur
   {
    margin: 1px 50px 0px 396px !important;
-  }
+  } */
 
 
   .concept {
@@ -209,18 +219,17 @@ body {
   }
 
   #margimg{
-    margin: 0px  !important;
+    margin-top: 55px  !important;
     padding: 0px !important;
-    /* width: 540px !important;
-    height: 440px !important; */
+ 
   }
 
   /*liste a puce avec 4 avantages*/
 
   #margul{
     padding: 0px !important;
-    margin: 0px 0px 0px 100px !important;
-    display: inline-block;
+    margin: 0px !important;
+   
   }
 
   .La-proposition-et-le {
@@ -232,15 +241,15 @@ body {
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
-    line-height: 1.65;
+    line-height: 1em;
     letter-spacing: normal;
     color: var(--dark-slate-blue);
+    background-size: ;
   }
 
   .check {
-    width: 30px;
+    width: 30px;;
     height: 30px;
-    /* margin: 0 17px 0 0; */
     object-fit: contain;
   }
 
@@ -272,6 +281,16 @@ body {
 
   /* 4 avantages icones*/
 
+  #heightblock{
+    height: 600px;
+    width: 1400px;
+  }
+#con{
+ text-align: center ;
+  
+}
+
+
   .bg {
     width: 1440px;
     height: 600px;
@@ -283,28 +302,28 @@ body {
   .imgavantage_1 {
     width: 260px;
     height: 142px;
-    margin: 0 0 31px;
+    margin: 192px 20px 31px 0px;
     object-fit: contain;
   }
 
   .imgavantage_2 {
     width: 260px;
     height: 140px;
-    margin: 0 0 26px;
+    margin: 200px 20px 26px 20px;
     object-fit: contain;
   }
 
   .imgavantage_3 {
     width: 260px;
     height: 140px;
-    margin: 0 0 26px;
+    margin: 200px 20px 26px 20px;
     object-fit: contain;
   }
 
   .imgavantage_4 {
     width: 260px;
     height: 140px;
-    margin: 0 0 26px;
+    margin: 200px 0px 26px 20px;
     object-fit: contain;
   }
 
