@@ -52,7 +52,7 @@ li.nav-item{
     font-style: normal;
     line-height: normal;
     letter-spacing: 0.9px;
-    color: var(--dusk-two);
+    color:#463b5a !important;
   }
 
   /* #apadding{
@@ -72,7 +72,7 @@ li.nav-item{
     font-style: normal;
     line-height: normal;
     letter-spacing: 0.9px;
-    color: var(--dusk-two);
+    color:#463b5a !important;
   }
 
   
@@ -88,7 +88,7 @@ li.nav-item{
     font-style: normal;
     line-height: normal;
     letter-spacing: 0.9px;
-    color: var(--dusk-two);
+    color:#463b5a !important;
   }
 
   
@@ -105,7 +105,7 @@ li.nav-item{
     font-style: normal;
     line-height: normal;
     letter-spacing: 0.9px;
-    color: var(--dusk-two);
+    color:#463b5a !important;
   }
 
   .contact {
@@ -120,7 +120,7 @@ li.nav-item{
     font-style: normal;
     line-height: normal;
     letter-spacing: 0.9px;
-    color: var(--dusk-two);
+    color:#463b5a !important;
   }
 
   /* 1er block image/text*/
@@ -145,7 +145,7 @@ li.nav-item{
     font-style: normal;
     line-height: normal;
     letter-spacing: normal;
-    color: var(--greyblue);
+    color: #82a9a4;
   }
   .trouver{
     /* margin: 0px 100px 0px 176px !important; */
@@ -162,7 +162,7 @@ li.nav-item{
     font-style: normal;
     line-height: 1.05;
     letter-spacing: normal;
-    color: var(--dark-slate-blue);
+    color: #223a5c;
   }
 
   .Notre-outil-performa {
@@ -176,7 +176,7 @@ li.nav-item{
     font-style: normal;
     line-height: 1.4;
     letter-spacing: normal;
-    color: var(--dark-slate-blue);
+    color: #223a5c;
   }
 
   .Rectangle {
@@ -185,9 +185,11 @@ li.nav-item{
     margin: 0px 387px 50px 14px;
     padding: 7px 16px;
     border-radius: 2px;
-    background-color: var(--dusty-orange);
+    background-color: #ee8446 !important;
 
   }
+
+ 
 
   #margcol{
     margin-left: 5px !important;
@@ -243,8 +245,8 @@ li.nav-item{
     font-style: normal;
     line-height: 1em;
     letter-spacing: normal;
-    color: var(--dark-slate-blue);
-    background-size: ;
+    color: #223a5c;
+    /* background-size: ; */
   }
 
   .check {
@@ -339,7 +341,7 @@ li.nav-item{
     font-style: normal;
     line-height: normal;
     letter-spacing: normal;
-    color: var(--greyblue);
+    color: #82a9a4;
   }
 
     .Votre-solution-de-fi {
@@ -353,7 +355,7 @@ li.nav-item{
       font-style: normal;
       line-height: 1.47;
       letter-spacing: normal;
-      color: var(--dark-slate-blue);
+      color: #223a5c;
     }
 
   
@@ -376,7 +378,7 @@ li.nav-item{
     font-style: normal;
     line-height: 1.22;
     letter-spacing: normal;
-    color: var(--dusk-two);
+    color: #463b5a;
   }
 
   .Ces-informations-nou {
@@ -390,7 +392,7 @@ li.nav-item{
     font-style: normal;
     line-height: 1.38;
     letter-spacing: normal;
-    color: var(--dusk-two);
+    color: #463b5a;
   }
 
   .Obtenez-directement {
@@ -404,7 +406,7 @@ li.nav-item{
     font-style: normal;
     line-height: 1.22;
     letter-spacing: normal;
-    color: var(--dusk-two);
+    color: #463b5a;
   }
 
   .Si-votre-demande-est {
@@ -418,7 +420,7 @@ li.nav-item{
     font-style: normal;
     line-height: 1.38;
     letter-spacing: normal;
-    color: var(--dusk-two);
+    color:#463b5a;
   }
 
   .Accdez-aux-coordonn {
@@ -432,7 +434,7 @@ li.nav-item{
     font-style: normal;
     line-height: 1.22;
     letter-spacing: normal;
-    color: var(--dusk-two);
+    color:#463b5a;
   }
 
   .Nous-vous-communiquo {
@@ -446,7 +448,7 @@ li.nav-item{
     font-style: normal;
     line-height: 1.38;
     letter-spacing: normal;
-    color: var(--dusk-two);
+    color: #463b5a;
   }
 
   .Prenez-RDV-avec-la-b {
@@ -460,7 +462,7 @@ li.nav-item{
     font-style: normal;
     line-height: 1.22;
     letter-spacing: normal;
-    color: var(--dusk-two);
+    color: #463b5a;
   }
 
   .Nous-vous-donnons-to {
@@ -474,7 +476,7 @@ li.nav-item{
     font-style: normal;
     line-height: 1.38;
     letter-spacing: normal;
-    color: var(--dusk-two);
+    color:#463b5a;
   }
 
   .Rectangle2 {
@@ -483,7 +485,9 @@ li.nav-item{
     margin: 16px 40px 0 0;
     padding: 7px 16px;
     border-radius: 2px;
-    background-color: var(--dusty-orange);
+    background-color: #ee8446
+
+    ;
   }
 
   /* section après solution de financement*/
@@ -519,7 +523,7 @@ li.nav-item{
     font-style: normal;
     line-height: 1.22;
     letter-spacing: normal;
-    color: var(--dusk-two);
+    color:#463b5a;
   }
 
   .Un-de-nos-coachs-fin {
@@ -532,7 +536,7 @@ li.nav-item{
     font-style: normal;
     line-height: 1.38;
     letter-spacing: normal;
-    color: var(--dusk-two);
+    color: #463b5a;
   }
 
   /* block text/image*/
@@ -565,7 +569,7 @@ li.nav-item{
     font-style: normal;
     line-height: normal;
     letter-spacing: normal;
-    color: var(--greyblue);
+    color: #82a9a4;
   }
 
   .Une-recherche-adapt {
@@ -579,7 +583,7 @@ li.nav-item{
     font-style: normal;
     line-height: 1.47;
     letter-spacing: normal;
-    color: var(--dark-slate-blue);
+    color:#223a5c;
   }
   .Nous-matchons-votre {
     width: 660px;
@@ -592,7 +596,7 @@ li.nav-item{
     font-style: normal;
     line-height: 1.4;
     letter-spacing: normal;
-    color: var(--dark-slate-blue);
+    color: #223a5c;
   }
 
 
@@ -607,7 +611,7 @@ li.nav-item{
     font-style: normal;
     line-height: normal;
     letter-spacing: normal;
-    color: var(--greyblue);
+    color: #82a9a4;
   }
   .Une-relle-expertise {
     width: 660px;
@@ -620,7 +624,7 @@ li.nav-item{
     font-style: normal;
     line-height: 1.47;
     letter-spacing: normal;
-    color: var(--dark-slate-blue);
+    color: #223a5c;
   }
   .Notre-quipe-est-com {
     width: 660px;
@@ -633,7 +637,7 @@ li.nav-item{
     font-style: normal;
     line-height: 1.4;
     letter-spacing: normal;
-    color: var(--dark-slate-blue);
+    color: #223a5c;
   }
   .imgcoach {
     width: 460px;
@@ -668,7 +672,7 @@ li.nav-item{
     font-style: normal;
     line-height: normal;
     letter-spacing: normal;
-    color: var(--greyblue);
+    color: #82a9a4;
   }
   .Transparence-et-qual {
     width: 660px;
@@ -681,7 +685,7 @@ li.nav-item{
     font-style: normal;
     line-height: 1.47;
     letter-spacing: normal;
-    color: var(--dark-slate-blue);
+    color: #223a5c;
   }
   .Nous-souhaitons-rvo {
     width: 660px;
@@ -694,7 +698,7 @@ li.nav-item{
     font-style: normal;
     line-height: 1.4;
     letter-spacing: normal;
-    color: var(--dark-slate-blue);
+    color: #223a5c;
   }
 
   /* labels icones*/
@@ -709,7 +713,7 @@ li.nav-item{
     font-style: normal;
     line-height: normal;
     letter-spacing: normal;
-    color: var(--greyblue);
+    color:#82a9a4;
   }
   .Nos-accrditations {
     width: 660px;
@@ -723,7 +727,7 @@ li.nav-item{
     line-height: 1.47;
     letter-spacing: normal;
     text-align: center;
-    color: var(--dark-slate-blue);
+    color: #223a5c;
   }
 
   .imglogo1 {
