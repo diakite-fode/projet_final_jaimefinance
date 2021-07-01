@@ -365,7 +365,7 @@ li.nav-item{
   .timeline {
     width: 1081px;
     height: 41px;
-    margin: 0 0px 16px 0;
+    margin: 0 0px 16px -95px;
     object-fit: contain;
     display: inline-block;
   }
@@ -708,7 +708,7 @@ li.nav-item{
   .Labels {
     width: 53px;
     height: 23px;
-    margin: 150px 693px 13px 694px;
+    margin: 150px 693px 13px 604.5px;
     font-family: Poppins;
     font-size: 16px;
     font-weight: 600;
@@ -721,7 +721,7 @@ li.nav-item{
   .Nos-accrditations {
     width: 660px;
     height: 44px;
-    margin: 0px 0px 104px 390px !important;
+    margin: 0px 0px 104px 300.5px !important;
     font-family: Poppins;
     font-size: 30px;
     font-weight: 600;
@@ -762,10 +762,10 @@ li.nav-item{
     object-fit: contain;
   }
 
-  #margg{
+  /* #margg{
     margin-left: 140px !important;
     margin-right: 140px !important;
     padding: 0px !important;
-  }
+  } */
 
 
